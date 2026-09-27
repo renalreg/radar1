@@ -26,7 +26,7 @@
     <properties>
         <wicket.version>1.5.3</wicket.version>
         <jetty.version>8.0.1.v20110908</jetty.version>
-        <spring.version>3.0.5.RELEASE</spring.version>
+        <spring.version>6.5.11</spring.version>
     </properties>
 
     <profiles>
